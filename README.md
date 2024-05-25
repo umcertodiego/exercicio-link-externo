@@ -12,11 +12,11 @@ Para visualizar os arquivos HTML no seu navegador, siga as instruções abaixo:
 
 1. Faça o clone deste repositório para o seu ambiente local:
     ```sh
-    git clone https://github.com/umcertodiego/exercicio-tabela-de-compras.git
+    git clone https://github.com/umcertodiego/exercicio-link-externo.git
     ```
 2. Navegue até o diretório do repositório clonado:
     ```sh
-    cd exercicio-tabela-de-compras
+    cd exercicio-link-externo
     ```
 3. Abra o arquivo `index.html` para visualizar a versão no seu navegador preferido.
 
